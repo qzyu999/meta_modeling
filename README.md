@@ -1,2 +1,2 @@
 # meta_modeling
-A repo for building out a framework to perform meta modeling.
+A repo for building out a framework to perform meta modeling. The idea is to generate a framework that can perform various types of meta-modeling, namely stacking. We may want to start out small and grow larger into a more polished codebase in the future. It may make sense to also do it within the scope of a typical Kaggle competition, where we can utilize freely the multiple online notebooks to run our code.
